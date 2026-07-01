@@ -1,6 +1,3 @@
-Here's the README rewritten in **simple and easy-to-understand language**.
-
----
 
 # React & Node.js E-Commerce Website
 
